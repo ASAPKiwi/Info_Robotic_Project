@@ -1,4 +1,4 @@
-# BA2 Project
+# BA2 Group Project
 
 This is the working directory for the BA2 group project in computer science.
 Before compiling this project, you first need to install
