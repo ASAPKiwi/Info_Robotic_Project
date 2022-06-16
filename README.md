@@ -1,6 +1,6 @@
 # BA2 Project
 
-This is the working directory for the BA2 project in computer science.
+This is the working directory for the BA2 group project in computer science.
 Before compiling this project, you first need to install
 
 - ARGoS3 (version beta56) - https://github.com/ilpincy/argos3 (commit `623fb873eaaddb22747dceb13f917790bad33f5e`)
